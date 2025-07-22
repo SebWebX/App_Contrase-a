@@ -21,4 +21,4 @@ Aplicación web que genera contraseñas aleatorias y seguras según las preferen
 
 ## 📷 Captura de pantalla
 
-![Vista previa de la app](./preview.png)
+![Vista previa de la app](./img/muestra.png)
