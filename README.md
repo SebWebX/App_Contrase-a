@@ -20,4 +20,5 @@ Aplicación web que genera contraseñas aleatorias y seguras según las preferen
 - JavaScript (vanilla)
 
 ## 📷 Captura de pantalla
-![Vista previa de la app](./img/preview.png)
+
+![Vista previa de la app](./preview.png)
